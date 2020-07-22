@@ -4,6 +4,8 @@ Miguel Arevalo tiene 20 años y nació en México
 
 Master 1
 
+Master 2
+
 Mañana nos enfocaremos en su vida laboral y carrera ajedrecística
 Miguel está comenzando a programar en Python y usando Git,
 también sabe lenguaje C, HTML, CSS.
